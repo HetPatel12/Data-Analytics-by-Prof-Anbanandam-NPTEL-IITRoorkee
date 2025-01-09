@@ -1,1 +1,1 @@
-[CampusX](https://github.com/campusx-official/100-days-of-machine-learning)
+Refer [CampusX ML Github Repository](https://github.com/campusx-official/100-days-of-machine-learning) and [YouTube Playlists](https://www.youtube.com/@campusx-official/playlists) for ML, DL and many more.
